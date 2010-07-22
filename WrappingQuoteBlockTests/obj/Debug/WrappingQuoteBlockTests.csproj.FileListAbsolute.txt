@@ -1,0 +1,17 @@
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\WrappingBlockQuoteTests.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\WrappingBlockQuoteTests.pdb
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\BlockQuoteWithFormatting.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\nunit.framework.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.PluginFramework.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.SearchEngine.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.AclEngine.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\BlockQuoteWithFormatting.pdb
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.PluginFramework.pdb
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.PluginFramework.xml
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.SearchEngine.pdb
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.SearchEngine.xml
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.AclEngine.pdb
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\bin\Debug\ScrewTurn.Wiki.AclEngine.xml
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\obj\Debug\ResolveAssemblyReference.cache
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\obj\Debug\WrappingBlockQuoteTests.dll
+C:\workspaces\ScrewTurnWiki-3.0.3.555-Source\WrappingQuoteBlockTests\obj\Debug\WrappingBlockQuoteTests.pdb
