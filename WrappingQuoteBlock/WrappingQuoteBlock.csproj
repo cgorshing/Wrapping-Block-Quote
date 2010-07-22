@@ -8,8 +8,8 @@
     <ProjectGuid>{0780C087-3C5C-4B57-944B-9E7D390E7E0D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BlockQuoteWithFormatting</RootNamespace>
-    <AssemblyName>BlockQuoteWithFormatting</AssemblyName>
+    <RootNamespace>WrappingQuoteBlock</RootNamespace>
+    <AssemblyName>WrappingQuoteBlock</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

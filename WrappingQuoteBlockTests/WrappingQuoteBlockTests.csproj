@@ -8,8 +8,8 @@
     <ProjectGuid>{2FC5D83D-FC74-493B-8D6C-378DDA9DEECE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WrappingBlockQuoteTests</RootNamespace>
-    <AssemblyName>WrappingBlockQuoteTests</AssemblyName>
+    <RootNamespace>WrappingQuoteBlockTests</RootNamespace>
+    <AssemblyName>WrappingQuoteBlockTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

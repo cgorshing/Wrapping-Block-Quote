@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using ScrewTurn.Wiki.PluginFramework;
 
-namespace WrappingBlockQuoteTests
+namespace WrappingQuoteBlockTests
 {
     [TestFixture]
     public class BlockQuoteTests
