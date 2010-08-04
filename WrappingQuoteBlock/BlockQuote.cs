@@ -122,7 +122,7 @@ namespace BlockQuoteWithFormatting
                         if (seenBefore.Count > 0 && seenBefore[0] == tagName) seenBefore.RemoveAt(0);
                         else
                         {
-                            _host.LogEntry("Found a closing tag of " + tagName, LogEntryType.General, LogName, this);
+                            //_host.LogEntry("Found a closing tag of " + tagName, LogEntryType.General, LogName, this);
                             result.Add(string.Format("</{0}>", tagName));
 
                             //1 is for including the closing bracket
